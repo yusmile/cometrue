@@ -1,6 +1,8 @@
 ﻿permalink: /:year/:month/:day/:title.html
-username: yusmile
-baseurl: /cometrue
+
+username: cometrue
+baseurl: /yusmile.github.io
+
 markdown: kramdown
 highlighter: rouge
 
