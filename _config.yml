@@ -2,6 +2,7 @@
 markdown: kramdown
 highlighter: rouge
 
+url: /cometrue
 username: cometrue
 baseurl: /yusmile.github.io
 
